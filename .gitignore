@@ -1,0 +1,7 @@
+build
+node_modules
+dist
+.vscode
+yarn-error.log
+debug.log
+package.json.md5
